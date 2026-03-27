@@ -563,6 +563,19 @@ h2 {
     position: relative;
 }
 
+.save-chip {
+      display: inline-block;
+      background: rgba(26, 255, 140, 0.08);
+      color: #1aff8c;
+      border: 1px solid rgba(26, 255, 140, 0.2);
+      font-size: 10px;
+      font-weight: 500;
+      padding: 3px 10px;
+      border-radius: 20px;
+      margin-top: 8px;
+      letter-spacing: 0.02em;
+    }
+
 .hot-badge {
     position: absolute;
     top: -13px;
